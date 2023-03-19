@@ -1,8 +1,10 @@
 #include <stdio.h>
 /**
-*main - A program that printsthe size of various computer types
-*Return : 0 (sucess)
-*/
+ *main - A program that prints a line with puts function
+ *Description: 'the program's description'
+ *parameter: describe the parameter
+ *Return: Always 0 (Success)
+ */
 int main(void)
 {
 printf("Size of a char: %lu byte(s)", sizeof(char));

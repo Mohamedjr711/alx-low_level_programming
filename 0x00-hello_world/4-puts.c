@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
-*main - A program that prints a line with puts function
-*
-*Return : 0 (success)
-*/
+ *main - A program that prints a line with puts function
+ *Description: 'the program's description'
+ *parameter: describe the parameter
+ *Return: Always 0 (Success)
+ */
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");

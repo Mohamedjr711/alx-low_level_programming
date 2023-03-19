@@ -1,9 +1,10 @@
 #include <stdio.h>
 /**
-* main - is used for printf it an obeevous description
-*
-* Return : 0 (sucess)
-*/
+ *main - A program that prints a line with puts function
+ *Description: 'the program's description'
+ *parameter: describe the parameter
+ *Return: Always 0 (Success)
+ */
 int main(void)
 {
 printf("with proper grammar, but the outcome is a piece of art,\n");
