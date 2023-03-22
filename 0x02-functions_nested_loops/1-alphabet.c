@@ -1,6 +1,6 @@
 #include "main.h"
 /**
- *main - A program that prints a line with puts function
+ *print_alphabet - A program that prints a line with puts function
  *Description: 'the program's description'
  *parameter: describe the parameter
  *Return: Always 0 (Success)
