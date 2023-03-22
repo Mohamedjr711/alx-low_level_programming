@@ -1,8 +1,8 @@
 #include "main.h"
 /**
- *_islower - A program that prints a line with puts function
+ *_abs - A program that prints a line with puts function
  *lowercase character . another cases , shows 
- * 0
+ *0
  *parameter: describe the parameter
  *Return: 1 for lowercases character. 0 for the rest
  */
@@ -14,6 +14,6 @@ int _abs(int)
 	}
 	else
 	{
-		return ( i * -1);
+		return (i * -1);
 	}
 }
